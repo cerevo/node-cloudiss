@@ -1,0 +1,13 @@
+{
+  "name": "myThings",
+  "version": "0.0.1",
+  "description": "cloudiss myThings connection demo",
+  "author": "niccolli",
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "dependencies": {
+    "noble": "latest",
+    "meshblu": "latest"
+  }
+}
